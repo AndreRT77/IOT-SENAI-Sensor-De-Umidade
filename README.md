@@ -33,3 +33,7 @@ void loop() {
 
   delay(2000);
 }
+
+# Autores:
+André Roberto Tavares
+Nathan da Silva Costa
